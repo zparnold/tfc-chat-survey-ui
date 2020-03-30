@@ -1,0 +1,12 @@
+html, body {
+    height: 90%;
+    width: 60%;
+    background: #eee;
+    margin: 10px auto;
+}
+#conversational-form > div > cf-input > cf-input-control-elements > cf-list {
+    max-width: 100%;
+}
+#conversational-form > div > cf-chat > scrollable > div > cf-chat-response.user.can-edit.peak-thumb.show {
+    color: #000;
+}
