@@ -1,8 +1,8 @@
 html, body {
-    height: 90%;
-    width: 60%;
-    background: #eee;
-    margin: 10px auto;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: block;
 }
 #conversational-form > div > cf-input > cf-input-control-elements > cf-list {
     max-width: 100%;
