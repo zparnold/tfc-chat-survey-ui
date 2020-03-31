@@ -4,6 +4,12 @@ html, body {
     width: 100%;
     display: block;
 }
+MyForm {
+    display: block;
+}
+.uuid{
+    display: none;
+}
 #conversational-form > div > cf-input > cf-input-control-elements > cf-list {
     max-width: 100%;
 }
