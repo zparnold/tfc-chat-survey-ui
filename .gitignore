@@ -2,3 +2,4 @@ node_modules
 .terraform
 data.zip
 build
+.idea
